@@ -5,7 +5,7 @@ Tenho experiência prática com projetos reais, trabalhando desde a interface at
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Universidade Anhanguera?
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Universidade Anhanguera)
 - 💼 Focado em me tornar um desenvolvedor full stack.
 - ⚛️ Experiência com React e construção de interfaces dinâmicas
 - 🧠 Conhecimentos em back-end com Node.js e MongoDB
