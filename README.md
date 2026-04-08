@@ -1,24 +1,29 @@
 ## 👋 Olá, eu sou o João Victor! Seja bem-vindo ao meu GitHub!
 
-Sou um desenvolvedor front-end em formação, apaixonado por tecnologia, design e interfaces que realmente fazem a diferença na vida das pessoas. Estou sempre aprendendo e criando projetos que me ajudam a crescer e aplicar meus conhecimentos na prática.
+Desenvolvedor Front-end com conhecimentos em back-end, focado em construir aplicações web modernas, performáticas e com boa experiência do usuário.
+Tenho experiência prática com projetos reais, trabalhando desde a interface até a integração com APIs e manipulação de dados.
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Universidade Anhanguera)
-- 📚 Estudando JavaScript, TypeScript e desenvolvimento web pela [Alura](https://www.alura.com.br)
-- 🧠 Sempre buscando melhorar em UX/UI, boas práticas e código limpo
-- 💡 Trabalhando em projetos próprios como **Motiva**, **Cálculo Rápido** e **Pokédex**
-- 🔍 Em busca do meu primeiro estágio como desenvolvedor front-end!
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Universidade Anhanguera?
+- 💼 Focado em me tornar um desenvolvedor full stack.
+- ⚛️ Experiência com React e construção de interfaces dinâmicas
+- 🧠 Conhecimentos em back-end com Node.js e MongoDB
+- 📌 Sempre buscando melhorar em UX/UI, boas práticas e código limpo
+- 💡 Trabalhando em projetos próprios como **Motiva**, **Cálculo Rápido** e **Meu proprio portfolio**
+- 🎯 Buscando oportunidade como desenvolvedor front-end / full stack júnior
 
 ---
 
 ### 🛠️ Tecnologias que estudo e utilizo
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
